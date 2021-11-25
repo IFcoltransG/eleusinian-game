@@ -12,9 +12,11 @@ mv ./index2.html ./index.html
 git commit index.html -m "add peyton immediately so I don't get murdered :P"
 echo
 echo "============================================================="
+echo
 echo "Kiran Patel is dead."
 echo "                     Find the murderer."
 echo "                                        Flash drive attached."
+echo
 echo "============================================================="
 echo
 EOF
