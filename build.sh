@@ -20,7 +20,9 @@ git commit index.html -m "fix ordering"
 mv ./index6.html ./index.html
 git commit index.html -m "oke, sorry, have some pictures"
 mv ./index7.html ./index.html
-git commit index.html -m "oh geez what fonts are you using" -m "you must be stopped Kiran, but any means necessary" --author "Celes D'Agostino <c.dagostino@mlmsolutions.com>"
+git commit index.html -m "oh geez what fonts are you using" -m "you must be stopped Kiran, but any means necessary :)" --author "Celes D'Agostino <c.dagostino@mlmsolutions.com>"
+mv ./index8.html ./index.html
+git commit index.html -m ":)"
 echo
 echo "============================================================="
 echo
