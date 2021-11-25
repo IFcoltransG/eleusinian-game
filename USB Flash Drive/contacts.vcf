@@ -1,0 +1,78 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kiran Patel
+N;CHARSET=UTF-8:Patel;Kiran;;;
+BDAY:19730710
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:k.patel@mlmsolutions.com
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:k.patel@happyemail.com
+TITLE;CHARSET=UTF-8:Chief Officer
+ROLE;CHARSET=UTF-8:Executive
+ORG;CHARSET=UTF-8:MLM Solutions Ltd.
+NOTE;CHARSET=UTF-8:Me!
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-09a38496770b6994b9003277aaf8392f.jpg
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Krishna Patel
+N;CHARSET=UTF-8:;Krishna Patel;;;
+NICKNAME;CHARSET=UTF-8:the best ever
+BDAY:19720117
+ANNIVERSARY:20000807
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:diplodocus@happyemail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:krishna.patel@faon.org
+TITLE;CHARSET=UTF-8:Special Representative of the Commissioner General
+ROLE;CHARSET=UTF-8:Delegate
+ORG;CHARSET=UTF-8:FAON
+URL;type=WORK;CHARSET=UTF-8:faon.org
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-9d7a2ecc570e42d1d39cc6652ad37548.jpg
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Celes D'Agostino
+N;CHARSET=UTF-8:D'Agostino;Celes;;;
+NICKNAME;CHARSET=UTF-8:C
+BDAY:19791130
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:celshaded@braillemail.net
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:c.dagostino@mlmsolutions.com
+TITLE;CHARSET=UTF-8:Director of Business Innovation
+ROLE;CHARSET=UTF-8:Executive
+ORG;CHARSET=UTF-8:MLM Solutions Ltd.
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-cebf9629fad4dc9c0ce5638221009843.jpg
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Peyton P. Sanchez
+N;CHARSET=UTF-8:Sanchez;Peyton;Pat;;
+NICKNAME;CHARSET=UTF-8:Pat
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:p.sanchez@mlmsolutions.com
+TITLE;CHARSET=UTF-8:Supreme Officer
+ROLE;CHARSET=UTF-8:Executive
+ORG;CHARSET=UTF-8:MLM Solutions Ltd.
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-81b339c48fb23db5d7cff5d709afa614.jpg
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Paris Montferrat
+N;CHARSET=UTF-8:Montferrat;Paris;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:p.montferrat@mlmsolutions.com
+TITLE;CHARSET=UTF-8:Director of Science
+ROLE;CHARSET=UTF-8:Executive
+ORG;CHARSET=UTF-8:MLM Solutions Ltd.
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-6d986d2b1bd60de3325098c620b714a8.jpg
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Kim Soroka
+N;CHARSET=UTF-8:Soroka;Kim;;;
+NICKNAME;CHARSET=UTF-8:Kimmler,Kardashev,Kim Milk
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:k.soroka@mlmsolutions.com
+TITLE;CHARSET=UTF-8:Human Excellence Officer
+ROLE;CHARSET=UTF-8:Executive
+ORG;CHARSET=UTF-8:MLM Solutions Ltd.
+PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-c2069293f038a36dddc545cab02300a6.jpg
+END:VCARD

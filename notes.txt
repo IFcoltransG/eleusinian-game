@@ -11,7 +11,7 @@ Kim (busked)
 Ruska
 Peyton Sanchez: CEO
 Raven
-
+REMIND me to strip REV from vcards, and add photos
 
 in Giza (GPD)
 Detective Inspector Flaherty did prelim investigations
@@ -20,3 +20,38 @@ Detective Inspector Flaherty did prelim investigations
 balance sheet made
 
 
+resignation deleted in git history
+
+Anonymous someone sending threatening emails to a staff member?
+Turns out that Kiran has access to that email account!
+
+
+
+Murder Mystery Online Help:
+Victim is Kiran Patel, 35 year old tech human at a startup.
+You are someone working for the police
+Possible motives: spouse and other love (jealousy), co-founder for rage, underling for money or bad treatment
+Ideal red herring would be spouse
+
+
+Structure:
+1: Initial survey, opening files. Read emails, look at website, skimread finances.
+-- Need some excitement, interest. Make them understand something about who the characters are.
+-- Emails need to be characters.
+2: Look at website html, find encrypted emails, find finance discrepancy.
+-- Need To make them work for it. Ugly side of each character.
+-- Inklings of affair, of anger management.
+3: Uncover git history. Decrypt emails.
+-- Revelations.
+4: Done.
+
+
+Profiles:
+Kiran Patel: co-founder and chief officer(bday 1973-07-10) extremely short emails
+Krishna Patel (bday 1972-01-17) is diplomat
+Celes D'Agostino (bday 1979-11-30) into astrology
+Peyton Sanchez: CEO "Founder and supreme officer"
+Paris Montferrat
+Kim Soroka
+Raven Marsick: died of heart disease (https://this-person-does-not-exist.com/img/avatar-7ac592a2e31b7a07009daeaad81d75de.jpg)
+Ruska Keating: poet https://this-person-does-not-exist.com/img/avatar-9863781b435795ee0020f68f719e9c61.jpg
