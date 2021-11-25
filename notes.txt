@@ -3,7 +3,7 @@ spouse is called Krishna Patel
 company is called MLM Solutions Ltd.
 
 Affair: Celes
-Anger management: Saffron
+Anger management:
 
 Other:
 Paris
@@ -11,14 +11,17 @@ Kim (busked)
 Ruska
 Peyton Sanchez: CEO
 Raven
+Saffron
 REMIND me to strip REV from vcards, and add photos
+
+
 
 in Giza (GPD)
 Detective Inspector Flaherty did prelim investigations
 
 "I had a look at the balance sheet. Something doesn't add up."
 balance sheet made
-
+formatting
 
 resignation deleted in git history
 
@@ -52,6 +55,8 @@ Krishna Patel (bday 1972-01-17) is diplomat
 Celes D'Agostino (bday 1979-11-30) into astrology
 Peyton Sanchez: CEO "Founder and supreme officer"
 Paris Montferrat
-Kim Soroka
-Raven Marsick: died of heart disease (https://this-person-does-not-exist.com/img/avatar-7ac592a2e31b7a07009daeaad81d75de.jpg)
+Kim Soroka: a bit of a jerk, precise copywriter
+Raven Marsick: Director of Administration, died of heart disease (https://this-person-does-not-exist.com/img/avatar-7ac592a2e31b7a07009daeaad81d75de.jpg)
 Ruska Keating: poet https://this-person-does-not-exist.com/img/avatar-9863781b435795ee0020f68f719e9c61.jpg
+
+Saffron https://this-person-does-not-exist.com/img/avatar-9f86b0ed37f7f1389e4d489d9196bea2.jpg
