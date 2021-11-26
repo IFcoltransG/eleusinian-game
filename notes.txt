@@ -3,7 +3,7 @@ spouse is called Krishna Patel
 company is called MLM Solutions Ltd.
 
 Affair: Celes
-Anger management:
+Anger management: Peyton?
 
 Other:
 Paris
@@ -11,7 +11,7 @@ Kim (busked)
 Ruska
 Peyton Sanchez: CEO
 Raven
-Saffron
+Saffron Shaw
 REMIND me to strip REV from vcards, and add photos
 
 
@@ -48,16 +48,17 @@ Structure:
 -- Revelations.
 4: Done.
 
+MySQL database
 
 Profiles:
 Kiran Patel: co-founder and chief officer(bday 1973-07-10) extremely short emails
 Krishna Patel (bday 1972-01-17) is diplomat
 Celes D'Agostino (bday 1979-11-30) into astrology
-Peyton Sanchez: CEO "Founder and supreme officer"
-Paris Montferrat
-Kim Soroka: a bit of a jerk, precise copywriter
+Peyton Sanchez: CEO "Founder and supreme officer", anger management
+Paris Montferrat: magician
+Kim Soroka: a bit of a jerk, precise copywriter, virtuosic violinist
 Raven Marsick: Director of Administration, died of heart disease (https://this-person-does-not-exist.com/img/avatar-7ac592a2e31b7a07009daeaad81d75de.jpg)
-Ruska Keating: poet https://this-person-does-not-exist.com/img/avatar-9863781b435795ee0020f68f719e9c61.jpg
+Ruska Keating: best friends with Raven until death. poet https://this-person-does-not-exist.com/img/avatar-9863781b435795ee0020f68f719e9c61.jpg
 
 Saffron https://this-person-does-not-exist.com/img/avatar-9f86b0ed37f7f1389e4d489d9196bea2.jpg
 
@@ -70,11 +71,48 @@ One email to everyone in contacts
 
 
 EVENTS:
+=======
+
+Remember to change message ids and filenames, e.g. random letters
+And thread threads
 
 MARSICK DEATH
-Raven - moneys don't add up
-Peyton - shoot he's dead
-Ruska - deeply grieved
+Raven - moneys don't add up (Peyton away)
+Peyton - shoot, Raven's dead
+Ruska - deeply grieved - I need to take some time off
+- Take all time you need
+Peyton - what about giving Ruska the role? honestly, if you weren't in your role, Ruska might get it off you!!
 
 KIRAN WITH KRISHNA
-Distance
+Krishna - hey hon
+Kiran - Distance
+Krishna - Borrowed USB - weird encrypted files?
+Kiran - Just temporary backups, because work been doing weird things: lost all email timestamps
+
+KIRAN WITH CELES (personal accounts)
+Celes - quick question, star sign?
+Kiran - answer + I have your birthday committed to memory.
+
+GENERIC COPY ADJUSTMENT
+Kiran - can you look over this before Kim tears it to pieces, haha
+Celes - ya sure (sly inside joke) this is like last time - signed Love,
+
+
+GENERIC RESOURCE THING MISSING
+Kiran - can I have this file for finances
+Paris - yes, I'd get it to you, except you keep compromising the security. the break in was because of you. progressively angrier. mentions Raven's death (admin)
+Paris - mild apology, some threat 'we'll talk later'
+
+DRAFT:
+to Krishna (Peyton?) - I've made a mistake
+encryption key?
+
+~~~~
+AFFAIR
+
+EMBEZZLEMENT
+
+
+Maybe it was a suicide? A frame job? Kiran framing someone?
+
+

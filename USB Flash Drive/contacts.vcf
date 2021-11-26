@@ -9,7 +9,7 @@ TITLE;CHARSET=UTF-8:Chief Officer
 ROLE;CHARSET=UTF-8:Executive
 ORG;CHARSET=UTF-8:MLM Solutions Ltd.
 NOTE;CHARSET=UTF-8:me!
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-09a38496770b6994b9003277aaf8392f.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
 
 BEGIN:VCARD
@@ -26,7 +26,7 @@ ROLE;CHARSET=UTF-8:Delegate
 ORG;CHARSET=UTF-8:FAON
 URL;type=WORK;CHARSET=UTF-8:faon.org
 NOTE;CHARSET=UTF-8:gets home 12 mon-thu, doesn't get home fri-sat
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-9d7a2ecc570e42d1d39cc6652ad37548.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
 
 BEGIN:VCARD
@@ -40,7 +40,7 @@ EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:c.dagostino@mlmsolutions.com
 TITLE;CHARSET=UTF-8:Director of Business Innovation
 ROLE;CHARSET=UTF-8:Executive
 ORG;CHARSET=UTF-8:MLM Solutions Ltd.
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-cebf9629fad4dc9c0ce5638221009843.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
 
 BEGIN:VCARD
@@ -53,7 +53,7 @@ TITLE;CHARSET=UTF-8:Supreme Officer
 ROLE;CHARSET=UTF-8:Executive
 ORG;CHARSET=UTF-8:MLM Solutions Ltd.
 NOTE;CHARSET=UTF-8:never get on peyton's bad side
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-81b339c48fb23db5d7cff5d709afa614.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
 
 BEGIN:VCARD
@@ -64,7 +64,7 @@ EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:p.montferrat@mlmsolutions.com
 TITLE;CHARSET=UTF-8:Director of Science
 ROLE;CHARSET=UTF-8:Executive
 ORG;CHARSET=UTF-8:MLM Solutions Ltd.
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-6d986d2b1bd60de3325098c620b714a8.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
 
 BEGIN:VCARD
@@ -77,5 +77,5 @@ TITLE;CHARSET=UTF-8:Human Excellence Officer
 ROLE;CHARSET=UTF-8:Executive
 ORG;CHARSET=UTF-8:MLM Solutions Ltd.
 NOTE;CHARSET=UTF-8:ugh
-PHOTO;TYPE=JPEG;VALUE=URI:https://this-person-does-not-exist.com/img/avatar-c2069293f038a36dddc545cab02300a6.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://thispersondoesnotexist.com/image
 END:VCARD
