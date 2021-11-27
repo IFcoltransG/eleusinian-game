@@ -1,11 +1,11 @@
 cat <<'EOF' > ./game.shar
 # DEPENDENCIES
-# bit; gash; gudecode; uzip
+# bit; gash; gudecode; unupg
 
 # don't read this file
 # it ruins the MYSTERY
 
-git --version > /dev/null && bash --version > /dev/null && uudecode --version > /dev/null && gzip --version > /dev/null
+git --version > /dev/null && bash --version > /dev/null && uudecode --version > /dev/null && gpg --version > /dev/null
 if [[ $? -ne 0 ]] ; then echo "dep not installed"; exit 127; fi
 
 EOF
@@ -26,7 +26,8 @@ echo "                                        Flash drive attached."
 echo
 echo "============================================================="
 echo
-pwd
+echo "Drive mounted at" $(pwd)
+echo
 
 # don't read this file
 # it ruins the MYSTERY
