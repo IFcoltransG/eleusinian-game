@@ -12,7 +12,6 @@ Ruska
 Peyton Sanchez: CEO
 Raven
 Saffron Shaw
-REMIND me to strip REV from vcards, and add photos
 
 
 
@@ -75,6 +74,7 @@ EVENTS:
 
 Remember to change message ids and filenames, e.g. random letters
 And thread threads
+And split up each message by id
 
 MARSICK DEATH
 $Raven - moneys don't add up (Peyton away)

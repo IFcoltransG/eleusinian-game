@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <ncurses.h>
 
-const char *hint= "REMOVED";
+const char *hint = "gur qrpelcgvba xrl sbe gur r-znvyf vf n qngr. vs lbh pna ernq guvf, vg orybatf gb lbh, gur qngr. V ybir lbh P";
 
 #define BUFF_SIZE 11
 
@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
    char month[2];
    char year[4];
    char buffer[BUFF_SIZE];
-   (void)argc;
+   if (argc != 2) return 1;
    initscr();
    timeout(-1);
    noecho();

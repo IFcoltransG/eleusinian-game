@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
    char month[2];
    char year[4];
    char buffer[BUFF_SIZE];
-   (void)argc;
+   if (argc != 2) return 1;
    initscr();
    timeout(-1);
    noecho();
