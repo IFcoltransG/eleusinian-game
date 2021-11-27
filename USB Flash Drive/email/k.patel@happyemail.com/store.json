@@ -1,5 +1,5 @@
 {
-  "email-ids": [
+  "ids": [
     "SMID=7Z6CF3DoSFI5AwbFtj=00@eg.emailserve.happyemail.com",
     "SMID=IE-LHZ2r4KXgQfdGJh=00@eg.emailserve.happyemail.com",
     "SMID=SHmWVLCiId0WzLoqa6=00@eg.emailserve.happyemail.com",
@@ -11,5 +11,11 @@
     "4382445@sv02.PROD.braillemail.net",
     "SMID=p6iXnNY1e1dsV80jUU=00@eg.emailserve.happyemail.com",
     "SMID=rzyrzeu2cIF7v1d6fw=00@eg.emailserve.happyemail.com"
+  ],
+  "drafts": [
+    "0",
+    "1",
+    "2",
+    "3"
   ]
 }
