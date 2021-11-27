@@ -47,7 +47,18 @@ Structure:
 -- Revelations.
 4: Done.
 
-MySQL database
+Should add backtracking and reinterpretation
+"hijack brain's simulation tech" imagination
+when interrogated, answer with questions
+matrix?
+
+
+Verbs:
+- absorb
+- uncover
+- wonder
+
+MySQL database (search history?)
 
 Profiles:
 Kiran Patel: co-founder and chief officer(bday 1973-07-10) extremely short emails
