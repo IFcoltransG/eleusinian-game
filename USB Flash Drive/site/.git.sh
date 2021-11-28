@@ -1,6 +1,6 @@
 #!/bin/bash
 git init .
-git config user.email "k.patel@mlmsolutions.com" 
+git config user.email "k.patel@mlmsolutions.com"
 git config user.name "Kiran Patel"
 mv ./index1.html ./index.html
 git add index.html
@@ -17,8 +17,10 @@ mv ./index6.html ./index.html
 git commit index.html -m "oke, sorry! have some pictures"
 mv ./index7.html ./index.html
 git commit index.html -m "oh geez what fonts are you using" -m "you must be stopped Kiran, but any means necessary :)" --author "Celes D'Agostino <c.dagostino@mlmsolutions.com>"
-cp ./index8.html ./index.html
-git commit index.html -m ":)"
-mv ./index9.html ./index.html
-git commit index.html -m "update team information"
 mv ./index8.html ./index.html
+git commit index.html -m ":)"
+cp ./index9.html ./index.html
+git commit index.html -m "update team information"
+mv ./index10.html ./index.html
+git commit index.html -m "i am done"
+mv ./index9.html ./index.html
