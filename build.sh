@@ -17,7 +17,7 @@ cd './USB Flash Drive'
 cd ./site
 bash ./.git.sh > /dev/null
 rm ./.git.sh
-cd ../.secure
+cd ../.private
 bash ./.gpg.sh > /dev/null
 rm ./.gpg.sh
 cd ..
