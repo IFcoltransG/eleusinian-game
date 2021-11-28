@@ -1,6 +1,6 @@
 cat <<'EOF' > ./game.shar
 # DEPENDENCIES
-# bit; gash; cudecode; uc; nnupg; ccurses
+# bit; gash; ccurses; nnupg; gudecode; uc
 
 # don't read this file
 # it ruins the MYSTERY
@@ -17,10 +17,10 @@ cd './USB Flash Drive'
 cd ./site
 bash ./.git.sh > /dev/null
 rm ./.git.sh
-cd ../email/secure
+cd ../.secure
 bash ./.gpg.sh > /dev/null
 rm ./.gpg.sh
-cd ../..
+cd ..
 echo
 echo "============================================================="
 echo
