@@ -1,7 +1,9 @@
-for file in ./secure-*; do
-mv "$file" "./${file#./secure-}";
-gpg -c --no-symkey-cache --batch --passphrase "30/11/1979" "./${file#./secure-}";
-rm "./${file#./secure-}";
+shopt -s globstar
+for file in ./**/secure-*; do
+newname="${file%/*}/${file#*/secure-}"
+mv "$file" "$newname";
+gpg -c --no-symkey-cache --batch --passphrase "30/11/1979" "$newname";
+rm "$newname";
 done
 cc ./decrypt-old.c -lncurses -o ./old.out
 strip ./old.out
