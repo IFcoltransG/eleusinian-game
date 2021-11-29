@@ -87,6 +87,8 @@ Remember to change message ids and filenames, e.g. random letters
 And thread threads
 And split up each message by id
 
+Should have more messages with non-Peyton peeps, esp. near start
+
 MARSICK DEATH
 $Raven - moneys don't add up (Peyton away)
 $Peyton - shoot, Raven's dead
