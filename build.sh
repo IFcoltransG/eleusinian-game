@@ -12,7 +12,7 @@ EOF
 
 shar -Q -B -n "'USB Flash Drive'" -m "./USB Flash Drive" | head -n -1 | sed '/ NZDT by/ c\# Made on 2009-03-04 03:27 EET by <di-flaherty@gpd-11>.' | sed "/\/home\/ata\//c\\# Source directory was '/home/di-flaherty/case-files/kiran-patel/'." >> ./game.shar
 
-cat <<'EOF' >> ./game.shar
+cat <<'SCRIPT_EOF' >> ./game.shar
 cd './USB Flash Drive'
 cd ./site
 bash ./.git.sh > /dev/null
@@ -21,18 +21,22 @@ cd ../.private
 bash ./.gpg.sh > /dev/null
 rm ./.gpg.sh
 cd ..
+name="providence.txt"
 echo
-echo "============================================================="
-echo
-echo "Kiran Patel is dead."
-echo "                     Find the murderer."
-echo "                                        Flash drive attached."
-echo
-echo "============================================================="
-echo
-echo "Drive mounted at" $(pwd)
+cat <<EOF | tee "../$name"
+=============================================================
+
+Kiran Patel is dead.
+                     Find the murderer.
+                                        Flash drive attached.
+
+=============================================================
+
+Drive mounted at $(pwd)
+EOF
+echo Details in $(cd .. && find $(pwd) -maxdepth 1 -name "$name")
 echo
 
 # don't read this file
 # it ruins the MYSTERY
-EOF
+SCRIPT_EOF
