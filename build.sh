@@ -34,6 +34,8 @@ Kiran Patel is dead.
 
 Drive mounted at $(pwd)
 EOF
+cat './.intro.txt' >> ../$name
+rm './.intro.txt'
 echo Details in $(cd .. && find $(pwd) -maxdepth 1 -name "$name")
 echo
 
