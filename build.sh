@@ -10,7 +10,7 @@ if [[ $? -ne 0 ]] ; then echo "dep not installed"; exit 127; fi
 
 EOF
 
-shar -Q -B -n "'USB Flash Drive'" -m "./USB Flash Drive" | head -n -1 | sed '/ NZDT by/ c\# Made on 2009-03-04 03:27 EET by <di-flaherty@gpd-11>.' | sed "/\/home\/ata\//c\\# Source directory was '/home/di-flaherty/case-files/kiran-patel/'." >> ./game.shar
+shar -Q -B -n "'USB Flash Drive'" -m "./USB Flash Drive" | head -n -1 | sed '/ NZDT by/ c\# Made on 2009-03-04 03:27 EET by <di-said@gpd-11>.' | sed "/\/home\/ata\//c\\# Source directory was '/home/di-flaherty/case-files/kiran-patel/'." >> ./game.shar
 
 cat <<'SCRIPT_EOF' >> ./game.shar
 cd './USB Flash Drive'
@@ -21,7 +21,7 @@ cd ../.private
 bash ./.gpg.sh > /dev/null
 rm ./.gpg.sh
 cd ..
-name="providence.txt"
+name='Patel Memo.TXT'
 echo
 cat <<EOF | tee "../$name"
 =============================================================
@@ -34,7 +34,7 @@ Kiran Patel is dead.
 
 Drive mounted at $(pwd)
 EOF
-cat './.intro.txt' >> ../$name
+cat './.intro.txt' >> "../$name"
 rm './.intro.txt'
 echo Details in $(cd .. && find $(pwd) -maxdepth 1 -name "$name")
 echo
