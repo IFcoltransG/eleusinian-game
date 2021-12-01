@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "type": "com.quoteunquoteapps.fountain",
+  "com.quoteunquoteapps.highland2": {
+    "showSynopses": false,
+    "currentTabIndex": 0,
+    "templateName": "Screenplay",
+    "printParagraphNumbers": false
+  },
+  "transient": false
+}

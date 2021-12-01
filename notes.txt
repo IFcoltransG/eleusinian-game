@@ -13,17 +13,14 @@ Peyton Sanchez: CEO
 Raven
 Saffron Shaw
 
-
-
 in Giza (GPD)
 Flaherty didn't do some prelim investigations — it was assembled by Detective Inspector Said
 
-"I had a look at the balance sheet. Something doesn't add up."
-balance sheet made
+
 formatting
 FAON orders police to step out of Kiran's life
 
-resignation deleted in git history
+white shadow to text in heading
 
 Anonymous someone sending threatening emails to a staff member?
 Turns out that Kiran has access to that email account!
@@ -85,10 +82,6 @@ Encrypted emails
 
 EVENTS:
 =======
-
-Remember to change message ids and filenames, e.g. random letters
-And thread threads
-And split up each message by id
 
 Should have more messages with non-Peyton peeps, esp. near start
 
