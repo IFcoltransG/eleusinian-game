@@ -1,0 +1,12 @@
+From: Kiran <k.patel@happyemail.com>
+To: C <celshaded@braillemail.net>
+Date: Wed, 18 Feb 2009 13:03:23 +0200
+Subject: RE: zbarl
+In-Reply-To: <6147351@sv02.PROD.braillemail.net>
+References: <5003934@sv02.PROD.braillemail.net> <SMID=WhYZFUzAYky9Oh4q8R=00@eg.emailserve.happyemail.com> <6147351@sv02.PROD.braillemail.net>
+Message-ID: <SMID=XWlYPY3e_6nQkL7l6e=00@eg.emailserve.happyemail.com>
+
+V jbhyq tb naljurer jvgu lbh. pnytnel. enong. wrehfnyrz.
+ohg V qvqa'g gbhpu gung sebz zyz fbyhgvbaf, oryvrir zr nf V ybir lbh P.
+
+Believe me.
