@@ -180,3 +180,4 @@ Things left I might consider doing.
 	Drop another hint or two the Flaherty is corrupt
 	Drop another hint or two that Kiran went to see Flaherty
 	Fill in that extra week
+		[x] moved Kiran getting those files
