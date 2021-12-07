@@ -157,7 +157,7 @@ WEEK BEGINS
 WEEK BEGINS
 2009-02-23
 2009-02-24
-2009-02-25
+2009-02-25: Kiran downloads data from company servers
 2009-02-26
 2009-02-27
 2009-02-28: Kiran stabbed mid afternoon (in morning)
@@ -179,3 +179,4 @@ Things left I might consider doing.
 		[x] Linked Pat to police and corruption
 	Drop another hint or two the Flaherty is corrupt
 	Drop another hint or two that Kiran went to see Flaherty
+	Fill in that extra week
