@@ -14,7 +14,7 @@ Raven
 Saffron Shaw
 
 in Giza (GPD) phone 
-Baas Flaherty A403 (Forbidden) didn't do some prelim investigations — it was assembled by Detective Inspector Said A451 (Unavailable for legal reasons)
+Baas Flaherty A403 (Forbidden) didn't do some prelim investigations — it was assembled by Chief Inspector Said A451 (Unavailable for legal reasons)
 
 DI Pip Lars A203 (Partial Information)
 C3481 case of embezzlement
@@ -160,7 +160,7 @@ WEEK BEGINS
 2009-02-25
 2009-02-26
 2009-02-27
-2009-02-28: Kiran stabbed mid afternoon (morning arranged to meet Lars the next day)
+2009-02-28: Kiran stabbed mid afternoon (in morning)
 2009-03-01
 WEEK BEGINS
 2009-03-02: Kiran body found late morning (early morning Krishna arrives)
@@ -173,3 +173,8 @@ arrange meeting with Lars or Flaherty; maybe draft a message to Peyton saying I 
 --talk to Peyton
 Ruska could be peoplewatching
 --let the audience get to know everyone better
+
+Things left I might consider doing.
+	Drop another hint or two that Pat and Flaherty are working together.
+	Drop another hint or two the Flaherty is corrupt
+	Drop another hint or two that Kiran went to see Flaherty
