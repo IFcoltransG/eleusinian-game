@@ -179,5 +179,6 @@ Things left I might consider doing.
 		[x] Linked Pat to police and corruption
 	Drop another hint or two the Flaherty is corrupt
 	Drop another hint or two that Kiran went to see Flaherty
+		[x] Put Flaherty in Kiran's contacts
 	Fill in that extra week
 		[x] moved Kiran getting those files
